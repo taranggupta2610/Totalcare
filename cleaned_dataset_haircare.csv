@@ -1,0 +1,301 @@
+Lead_ID,Date,Acquisition_Channel,Region,Age_Group,Gender,Device_Type,Product_Interest,Hair_Concern,Sessions_Before_Purchase,Ad_Spend_INR,Converted,Order_Value_INR,Customer_Rating,Repeat_Purchase,Month,Quarter,Revenue_Generated,Conversion_Flag,Cost_Per_Lead_INR
+LD2000,2024-02-29,Email Campaign,Metro Cities,25-34,Male,Mobile,Onion & Biotin Serum,Thinning,2,95.0,1,949.0,4.1,0,2,1,949.0,Yes,95.0
+LD2001,2024-11-27,Email Campaign,East India,25-34,Male,Desktop,Scalp Detox Oil,Dry & Frizzy,5,45.0,1,799.0,3.5,1,11,4,799.0,Yes,45.0
+LD2002,2024-03-24,Instagram Ads,East India,35-44,Female,Mobile,Anti-Hair Fall Shampoo,Thinning,1,464.0,0,,,0,3,1,0.0,No,464.0
+LD2003,2024-01-24,Organic Search,East India,45-54,Female,Desktop,Scalp Detox Oil,Oily Scalp,2,30.0,1,799.0,4.9,1,1,1,799.0,Yes,30.0
+LD2004,2024-07-02,Organic Search,West India,18-24,Female,Mobile,Scalp Detox Oil,Oily Scalp,1,-43.0,0,,,0,7,3,0.0,No,-43.0
+LD2005,2024-02-04,Influencer,West India,25-34,Male,Mobile,Deep Repair Hair Mask,Thinning,7,589.0,0,,,0,2,1,0.0,No,589.0
+LD2006,2024-08-28,Instagram Ads,South India,25-34,Male,Mobile,Onion & Biotin Serum,Dry & Frizzy,4,485.0,0,,,0,8,3,0.0,No,485.0
+LD2007,2024-09-27,Influencer,North India,25-34,Male,Desktop,Scalp Detox Oil,Thinning,4,589.0,0,,,0,9,3,0.0,No,589.0
+LD2008,2024-12-25,Email Campaign,North India,55+,Male,Mobile,Deep Repair Hair Mask,Hair Fall,7,49.0,0,,,0,12,4,0.0,No,49.0
+LD2009,2024-10-12,Instagram Ads,East India,35-44,Female,Mobile,Deep Repair Hair Mask,Dandruff,5,439.0,0,,,0,10,4,0.0,No,439.0
+LD2010,2024-11-19,Email Campaign,South India,35-44,Male,Mobile,Anti-Hair Fall Shampoo,Hair Fall,3,108.0,1,699.0,3.8,1,11,4,699.0,Yes,108.0
+LD2011,2024-02-01,Instagram Ads,Metro Cities,25-34,Female,Desktop,Onion & Biotin Serum,Hair Fall,2,377.0,0,,,0,2,1,0.0,No,377.0
+LD2012,2024-05-10,Google Ads,West India,25-34,Male,Mobile,Scalp Detox Oil,Hair Fall,3,404.0,0,,,0,5,2,0.0,No,404.0
+LD2013,2024-07-31,Instagram Ads,Metro Cities,45-54,Male,Tablet,Onion & Biotin Serum,Oily Scalp,1,424.0,0,,,0,7,3,0.0,No,424.0
+LD2014,2024-04-30,Instagram Ads,East India,35-44,Female,Mobile,Keratin Conditioner,Thinning,6,365.0,1,749.0,3.8,0,4,2,749.0,Yes,365.0
+LD2015,2024-08-15,Email Campaign,North India,45-54,Female,Desktop,Keratin Conditioner,Hair Fall,6,82.0,0,,,0,8,3,0.0,No,82.0
+LD2016,2024-11-10,Google Ads,North India,18-24,Male,Desktop,Deep Repair Hair Mask,Oily Scalp,3,423.0,0,,,0,11,4,0.0,No,423.0
+LD2017,2024-06-08,Influencer,East India,18-24,Male,Mobile,Keratin Conditioner,Oily Scalp,3,601.0,0,,,0,6,2,0.0,No,601.0
+LD2018,2024-04-27,Email Campaign,Metro Cities,25-34,Male,Mobile,Deep Repair Hair Mask,Oily Scalp,3,97.0,1,849.0,3.7,0,4,2,849.0,Yes,97.0
+LD2019,2024-04-14,Instagram Ads,Metro Cities,25-34,Female,Desktop,Anti-Hair Fall Shampoo,Thinning,5,376.0,0,,,0,4,2,0.0,No,376.0
+LD2020,2024-04-12,Google Ads,South India,25-34,Female,Tablet,Onion & Biotin Serum,Thinning,3,413.0,0,,,0,4,2,0.0,No,413.0
+LD2021,2024-11-12,Organic Search,West India,18-24,Male,Mobile,Scalp Detox Oil,Dandruff,5,26.0,1,799.0,,0,11,4,799.0,Yes,26.0
+LD2022,2024-05-21,Influencer,West India,18-24,Female,Desktop,Scalp Detox Oil,Oily Scalp,6,582.0,0,,,0,5,2,0.0,No,582.0
+LD2023,2024-03-13,Organic Search,South India,35-44,Male,Desktop,Anti-Hair Fall Shampoo,Dry & Frizzy,2,-66.0,1,699.0,4.6,0,3,1,699.0,Yes,-66.0
+LD2024,2024-10-18,Instagram Ads,North India,35-44,Male,Mobile,Keratin Conditioner,Thinning,4,396.0,1,749.0,3.9,1,10,4,749.0,Yes,396.0
+LD2025,2024-04-21,Instagram Ads,East India,25-34,Female,Mobile,Onion & Biotin Serum,Dandruff,5,388.0,0,,,0,4,2,0.0,No,388.0
+LD2026,2024-02-25,Google Ads,West India,25-34,Female,Tablet,Anti-Hair Fall Shampoo,Thinning,1,355.0,0,,,0,2,1,0.0,No,355.0
+LD2027,2024-01-24,Instagram Ads,South India,25-34,Non-binary,Mobile,Keratin Conditioner,Dandruff,6,448.0,1,749.0,4.6,0,1,1,749.0,Yes,448.0
+LD2028,2024-05-20,Instagram Ads,South India,25-34,Female,Mobile,Scalp Detox Oil,Oily Scalp,4,376.0,0,,,0,5,2,0.0,No,376.0
+LD2029,2024-06-04,Influencer,Metro Cities,18-24,Male,Tablet,Anti-Hair Fall Shampoo,Dandruff,4,555.0,0,,,0,6,2,0.0,No,555.0
+LD2030,2024-04-03,Google Ads,West India,35-44,Non-binary,Tablet,Onion & Biotin Serum,Thinning,3,303.0,1,949.0,3.7,0,4,2,949.0,Yes,303.0
+LD2031,2024-09-27,Instagram Ads,Metro Cities,45-54,Female,Desktop,Keratin Conditioner,Hair Fall,5,460.0,0,,,0,9,3,0.0,No,460.0
+LD2032,2024-07-30,Google Ads,Metro Cities,25-34,Female,Mobile,Onion & Biotin Serum,Dry & Frizzy,2,404.0,0,,,0,7,3,0.0,No,404.0
+LD2033,2024-08-09,Instagram Ads,East India,18-24,Female,Mobile,Onion & Biotin Serum,Hair Fall,4,410.0,0,,,0,8,3,0.0,No,410.0
+LD2034,2024-04-03,Google Ads,Metro Cities,55+,Male,Desktop,Scalp Detox Oil,Thinning,4,305.0,0,,,0,4,2,0.0,No,305.0
+LD2035,2024-10-10,Instagram Ads,North India,55+,Female,Mobile,Anti-Hair Fall Shampoo,Dandruff,6,423.0,0,,,0,10,4,0.0,No,423.0
+LD2036,2024-11-25,Influencer,East India,18-24,Male,Mobile,Onion & Biotin Serum,Oily Scalp,5,581.0,0,,,0,11,4,0.0,No,581.0
+LD2037,2024-07-05,Organic Search,North India,55+,Male,Tablet,Deep Repair Hair Mask,Hair Fall,7,-11.0,1,849.0,3.6,0,7,3,849.0,Yes,-11.0
+LD2038,2024-03-19,Email Campaign,West India,18-24,Female,Desktop,Deep Repair Hair Mask,Dry & Frizzy,7,108.0,0,,,0,3,1,0.0,No,108.0
+LD2039,2024-09-09,Instagram Ads,East India,55+,Male,Mobile,Scalp Detox Oil,Dry & Frizzy,3,412.0,0,,,0,9,3,0.0,No,412.0
+LD2040,2024-04-04,Instagram Ads,Metro Cities,18-24,Female,Desktop,Anti-Hair Fall Shampoo,Thinning,3,425.0,1,699.0,4.9,1,4,2,699.0,Yes,425.0
+LD2041,2024-06-15,Influencer,Metro Cities,35-44,Female,Desktop,Anti-Hair Fall Shampoo,Oily Scalp,2,524.0,0,,,0,6,2,0.0,No,524.0
+LD2042,2024-01-06,Instagram Ads,West India,18-24,Male,Mobile,Scalp Detox Oil,Thinning,6,425.0,1,799.0,3.6,0,1,1,799.0,Yes,425.0
+LD2043,2024-09-26,Google Ads,East India,45-54,Female,Mobile,Scalp Detox Oil,Dry & Frizzy,1,360.0,1,799.0,4.2,0,9,3,799.0,Yes,360.0
+LD2044,2024-04-23,Instagram Ads,Metro Cities,25-34,Female,Mobile,Scalp Detox Oil,Dandruff,3,418.0,0,,,0,4,2,0.0,No,418.0
+LD2045,2024-02-01,Email Campaign,Metro Cities,45-54,Male,Desktop,Onion & Biotin Serum,Dry & Frizzy,4,157.0,1,949.0,3.7,0,2,1,949.0,Yes,157.0
+LD2046,2024-03-07,Google Ads,East India,35-44,Male,Desktop,Scalp Detox Oil,Hair Fall,1,338.0,1,799.0,4.8,0,3,1,799.0,Yes,338.0
+LD2047,2024-09-09,Instagram Ads,Metro Cities,25-34,Female,Mobile,Keratin Conditioner,Oily Scalp,3,447.0,1,749.0,3.5,0,9,3,749.0,Yes,447.0
+LD2048,2024-04-02,Email Campaign,Metro Cities,45-54,Female,Desktop,Onion & Biotin Serum,Thinning,6,106.0,1,949.0,4.9,1,4,2,949.0,Yes,106.0
+LD2049,2024-10-11,Email Campaign,South India,35-44,Female,Mobile,Anti-Hair Fall Shampoo,Oily Scalp,3,177.0,0,,,0,10,4,0.0,No,177.0
+LD2050,2024-09-25,Google Ads,North India,25-34,Male,Mobile,Onion & Biotin Serum,Hair Fall,6,326.0,0,,,0,9,3,0.0,No,326.0
+LD2051,2024-03-06,Email Campaign,West India,25-34,Female,Desktop,Deep Repair Hair Mask,Dry & Frizzy,4,59.0,0,,,0,3,1,0.0,No,59.0
+LD2052,2024-11-02,Instagram Ads,East India,18-24,Female,Mobile,Deep Repair Hair Mask,Oily Scalp,4,369.0,0,,,0,11,4,0.0,No,369.0
+LD2053,2024-01-25,Influencer,South India,45-54,Female,Desktop,Deep Repair Hair Mask,Hair Fall,2,583.0,0,,,0,1,1,0.0,No,583.0
+LD2054,2024-05-08,Influencer,South India,18-24,Female,Desktop,Anti-Hair Fall Shampoo,Dandruff,7,598.0,0,,,0,5,2,0.0,No,598.0
+LD2055,2024-04-26,Google Ads,Metro Cities,25-34,Female,Desktop,Scalp Detox Oil,Dry & Frizzy,5,342.0,0,,,0,4,2,0.0,No,342.0
+LD2056,2024-07-31,Google Ads,East India,45-54,Female,Desktop,Keratin Conditioner,Oily Scalp,1,400.0,1,749.0,4.7,0,7,3,749.0,Yes,400.0
+LD2057,2024-11-11,Influencer,North India,35-44,Female,Mobile,Scalp Detox Oil,Dry & Frizzy,1,612.0,0,,,0,11,4,0.0,No,612.0
+LD2058,2024-12-05,Influencer,Metro Cities,25-34,Female,Mobile,Anti-Hair Fall Shampoo,Hair Fall,1,582.0,0,,,0,12,4,0.0,No,582.0
+LD2059,2024-08-22,Influencer,West India,25-34,Male,Mobile,Scalp Detox Oil,Dandruff,7,625.0,0,,,0,8,3,0.0,No,625.0
+LD2060,2024-11-24,Google Ads,Metro Cities,35-44,Female,Mobile,Onion & Biotin Serum,Dry & Frizzy,4,398.0,1,949.0,4.2,1,11,4,949.0,Yes,398.0
+LD2061,2024-11-06,Email Campaign,South India,25-34,Female,Mobile,Deep Repair Hair Mask,Thinning,7,143.0,1,849.0,,0,11,4,849.0,Yes,143.0
+LD2062,2024-04-15,Instagram Ads,West India,25-34,Female,Desktop,Keratin Conditioner,Dry & Frizzy,2,440.0,1,749.0,4.0,0,4,2,749.0,Yes,440.0
+LD2063,2024-07-31,Google Ads,North India,18-24,Female,Mobile,Keratin Conditioner,Dry & Frizzy,6,414.0,0,,,0,7,3,0.0,No,414.0
+LD2064,2024-01-02,Organic Search,North India,25-34,Male,Mobile,Anti-Hair Fall Shampoo,Thinning,2,-68.0,0,,,0,1,1,0.0,No,-68.0
+LD2065,2024-11-28,Instagram Ads,North India,18-24,Male,Mobile,Onion & Biotin Serum,Hair Fall,1,471.0,1,949.0,3.4,0,11,4,949.0,Yes,471.0
+LD2066,2024-03-17,Instagram Ads,South India,25-34,Female,Desktop,Deep Repair Hair Mask,Dandruff,7,379.0,0,,,0,3,1,0.0,No,379.0
+LD2067,2024-07-17,Organic Search,West India,25-34,Female,Desktop,Onion & Biotin Serum,Oily Scalp,7,65.0,1,949.0,4.8,0,7,3,949.0,Yes,65.0
+LD2068,2024-07-01,Influencer,South India,45-54,Female,Desktop,Scalp Detox Oil,Oily Scalp,3,626.0,0,,,0,7,3,0.0,No,626.0
+LD2069,2024-12-24,Google Ads,Metro Cities,45-54,Male,Mobile,Keratin Conditioner,Thinning,7,328.0,1,749.0,3.6,0,12,4,749.0,Yes,328.0
+LD2070,2024-04-05,Influencer,South India,18-24,Female,Mobile,Deep Repair Hair Mask,Dandruff,3,618.0,0,,,0,4,2,0.0,No,618.0
+LD2071,2024-03-30,Instagram Ads,West India,35-44,Female,Desktop,Deep Repair Hair Mask,Thinning,6,375.0,0,,,0,3,1,0.0,No,375.0
+LD2072,2024-04-22,Google Ads,West India,18-24,Male,Desktop,Keratin Conditioner,Oily Scalp,6,304.0,0,,,0,4,2,0.0,No,304.0
+LD2073,2024-06-09,Organic Search,North India,18-24,Female,Desktop,Keratin Conditioner,Thinning,4,5.0,1,749.0,3.3,1,6,2,749.0,Yes,5.0
+LD2074,2024-02-11,Instagram Ads,West India,45-54,Non-binary,Mobile,Anti-Hair Fall Shampoo,Hair Fall,6,395.0,0,,,0,2,1,0.0,No,395.0
+LD2075,2024-04-15,Google Ads,South India,35-44,Female,Desktop,Onion & Biotin Serum,Oily Scalp,3,353.0,0,,,0,4,2,0.0,No,353.0
+LD2076,2024-04-09,Instagram Ads,East India,18-24,Female,Mobile,Deep Repair Hair Mask,Thinning,7,401.0,0,,,0,4,2,0.0,No,401.0
+LD2077,2024-11-20,Google Ads,South India,45-54,Male,Tablet,Onion & Biotin Serum,Oily Scalp,3,372.0,1,949.0,4.4,0,11,4,949.0,Yes,372.0
+LD2078,2024-09-04,Google Ads,South India,25-34,Male,Tablet,Scalp Detox Oil,Thinning,2,397.0,0,,,0,9,3,0.0,No,397.0
+LD2079,2024-08-22,Email Campaign,Metro Cities,35-44,Non-binary,Mobile,Anti-Hair Fall Shampoo,Oily Scalp,5,117.0,0,,,0,8,3,0.0,No,117.0
+LD2080,2024-09-16,Influencer,North India,25-34,Female,Mobile,Onion & Biotin Serum,Oily Scalp,4,573.0,1,949.0,3.4,0,9,3,949.0,Yes,573.0
+LD2081,2024-08-15,Instagram Ads,Metro Cities,18-24,Female,Mobile,Anti-Hair Fall Shampoo,Dandruff,7,486.0,0,,,0,8,3,0.0,No,486.0
+LD2082,2024-04-13,Influencer,South India,35-44,Female,Mobile,Scalp Detox Oil,Thinning,6,596.0,1,799.0,4.8,0,4,2,799.0,Yes,596.0
+LD2083,2024-07-20,Google Ads,Metro Cities,18-24,Female,Mobile,Onion & Biotin Serum,Dry & Frizzy,3,373.0,0,,,0,7,3,0.0,No,373.0
+LD2084,2024-03-13,Organic Search,West India,35-44,Female,Mobile,Keratin Conditioner,Dandruff,1,-8.0,1,749.0,3.9,1,3,1,749.0,Yes,-8.0
+LD2085,2024-11-12,Organic Search,Metro Cities,25-34,Male,Desktop,Deep Repair Hair Mask,Oily Scalp,1,48.0,0,,,0,11,4,0.0,No,48.0
+LD2086,2024-05-20,Instagram Ads,West India,18-24,Female,Mobile,Scalp Detox Oil,Dandruff,4,424.0,0,,,0,5,2,0.0,No,424.0
+LD2087,2024-11-13,Organic Search,West India,35-44,Male,Desktop,Anti-Hair Fall Shampoo,Thinning,6,65.0,0,,,0,11,4,0.0,No,65.0
+LD2088,2024-09-19,Instagram Ads,Metro Cities,18-24,Male,Mobile,Onion & Biotin Serum,Oily Scalp,4,414.0,0,,,0,9,3,0.0,No,414.0
+LD2089,2024-01-23,Google Ads,East India,45-54,Female,Mobile,Deep Repair Hair Mask,Oily Scalp,4,304.0,1,849.0,4.3,0,1,1,849.0,Yes,304.0
+LD2090,2024-10-20,Instagram Ads,South India,35-44,Female,Desktop,Anti-Hair Fall Shampoo,Thinning,6,445.0,1,699.0,4.0,0,10,4,699.0,Yes,445.0
+LD2091,2024-12-18,Influencer,East India,25-34,Female,Mobile,Keratin Conditioner,Thinning,4,512.0,0,,,0,12,4,0.0,No,512.0
+LD2092,2024-04-30,Influencer,East India,45-54,Female,Mobile,Deep Repair Hair Mask,Dry & Frizzy,3,542.0,1,849.0,4.1,0,4,2,849.0,Yes,542.0
+LD2093,2024-06-09,Email Campaign,West India,45-54,Female,Mobile,Keratin Conditioner,Thinning,4,116.0,0,,,0,6,2,0.0,No,116.0
+LD2094,2024-03-01,Email Campaign,Metro Cities,35-44,Female,Mobile,Keratin Conditioner,Thinning,2,135.0,1,749.0,4.5,0,3,1,749.0,Yes,135.0
+LD2095,2024-03-12,Email Campaign,North India,18-24,Female,Desktop,Scalp Detox Oil,Dandruff,1,43.0,0,,,0,3,1,0.0,No,43.0
+LD2096,2024-05-31,Google Ads,East India,25-34,Male,Mobile,Keratin Conditioner,Oily Scalp,2,352.0,0,,,0,5,2,0.0,No,352.0
+LD2097,2024-02-04,Influencer,North India,35-44,Female,Mobile,Deep Repair Hair Mask,Dry & Frizzy,6,534.0,0,,,0,2,1,0.0,No,534.0
+LD2098,2024-10-04,Organic Search,North India,35-44,Female,Mobile,Scalp Detox Oil,Thinning,1,8.0,0,,,0,10,4,0.0,No,8.0
+LD2099,2024-02-10,Organic Search,Metro Cities,35-44,Female,Mobile,Onion & Biotin Serum,Dandruff,5,-68.0,0,,,0,2,1,0.0,No,-68.0
+LD2100,2024-06-21,Organic Search,Metro Cities,25-34,Male,Mobile,Keratin Conditioner,Thinning,6,33.0,0,,,0,6,2,0.0,No,33.0
+LD2101,2024-04-27,Google Ads,West India,18-24,Female,Tablet,Anti-Hair Fall Shampoo,Thinning,6,294.0,1,699.0,4.1,0,4,2,699.0,Yes,294.0
+LD2102,2024-08-18,Instagram Ads,West India,25-34,Female,Mobile,Scalp Detox Oil,Hair Fall,6,351.0,1,799.0,5.0,0,8,3,799.0,Yes,351.0
+LD2103,2024-12-05,Influencer,West India,45-54,Female,Mobile,Scalp Detox Oil,Dry & Frizzy,5,589.0,1,799.0,4.4,0,12,4,799.0,Yes,589.0
+LD2104,2024-01-25,Instagram Ads,East India,35-44,Female,Desktop,Scalp Detox Oil,Dry & Frizzy,5,366.0,1,799.0,4.2,1,1,1,799.0,Yes,366.0
+LD2105,2024-08-16,Google Ads,South India,35-44,Female,Mobile,Anti-Hair Fall Shampoo,Dandruff,4,326.0,0,,,0,8,3,0.0,No,326.0
+LD2106,2024-06-25,Influencer,East India,25-34,Male,Mobile,Deep Repair Hair Mask,Dry & Frizzy,4,573.0,1,849.0,4.7,0,6,2,849.0,Yes,573.0
+LD2107,2024-12-01,Email Campaign,South India,18-24,Female,Mobile,Keratin Conditioner,Thinning,7,107.0,1,749.0,4.4,0,12,4,749.0,Yes,107.0
+LD2108,2024-03-05,Organic Search,Metro Cities,35-44,Female,Mobile,Scalp Detox Oil,Thinning,4,13.0,0,,,0,3,1,0.0,No,13.0
+LD2109,2024-11-08,Influencer,West India,25-34,Female,Mobile,Scalp Detox Oil,Oily Scalp,7,605.0,0,,,0,11,4,0.0,No,605.0
+LD2110,2024-07-28,Instagram Ads,West India,25-34,Male,Mobile,Scalp Detox Oil,Oily Scalp,5,444.0,0,,,0,7,3,0.0,No,444.0
+LD2111,2024-02-02,Google Ads,South India,18-24,Female,Desktop,Onion & Biotin Serum,Dandruff,5,424.0,0,,,0,2,1,0.0,No,424.0
+LD2112,2024-03-10,Google Ads,East India,25-34,Female,Mobile,Scalp Detox Oil,Thinning,7,361.0,1,,4.4,1,3,1,0.0,Yes,361.0
+LD2113,2024-01-05,Google Ads,Metro Cities,25-34,Female,Mobile,Onion & Biotin Serum,Oily Scalp,2,395.0,1,949.0,4.8,0,1,1,949.0,Yes,395.0
+LD2114,2024-05-03,Google Ads,Metro Cities,25-34,Female,Mobile,Anti-Hair Fall Shampoo,Oily Scalp,3,407.0,0,,,0,5,2,0.0,No,407.0
+LD2115,2024-03-22,Email Campaign,East India,25-34,Female,Mobile,Onion & Biotin Serum,Dry & Frizzy,4,112.0,0,,,0,3,1,0.0,No,112.0
+LD2116,2024-02-17,Google Ads,West India,25-34,Female,Desktop,Onion & Biotin Serum,Dry & Frizzy,5,333.0,1,949.0,3.7,0,2,1,949.0,Yes,333.0
+LD2117,2024-12-22,Google Ads,Metro Cities,45-54,Female,Tablet,Onion & Biotin Serum,Thinning,7,332.0,0,,,0,12,4,0.0,No,332.0
+LD2118,2024-09-22,Google Ads,West India,35-44,Female,Mobile,Onion & Biotin Serum,Thinning,4,360.0,0,,,0,9,3,0.0,No,360.0
+LD2119,2024-12-25,Email Campaign,South India,35-44,Female,Mobile,Scalp Detox Oil,Dandruff,4,83.0,1,799.0,3.8,0,12,4,799.0,Yes,83.0
+LD2120,2024-12-24,Instagram Ads,East India,45-54,Male,Mobile,Anti-Hair Fall Shampoo,Hair Fall,1,489.0,0,,,0,12,4,0.0,No,489.0
+LD2121,2024-01-06,Instagram Ads,East India,35-44,Non-binary,Mobile,Onion & Biotin Serum,Dandruff,1,438.0,1,949.0,3.4,0,1,1,949.0,Yes,438.0
+LD2122,2024-10-08,Influencer,Metro Cities,35-44,Female,Desktop,Anti-Hair Fall Shampoo,Thinning,4,599.0,0,,,0,10,4,0.0,No,599.0
+LD2123,2024-06-09,Instagram Ads,East India,25-34,Female,Mobile,Deep Repair Hair Mask,Thinning,2,389.0,0,,,0,6,2,0.0,No,389.0
+LD2124,2024-07-04,Instagram Ads,West India,35-44,Female,Mobile,Anti-Hair Fall Shampoo,Dandruff,7,414.0,0,,,0,7,3,0.0,No,414.0
+LD2125,2024-04-11,Email Campaign,East India,25-34,Female,Mobile,Scalp Detox Oil,Hair Fall,2,44.0,0,,,0,4,2,0.0,No,44.0
+LD2126,2024-11-09,Google Ads,West India,25-34,Female,Mobile,Scalp Detox Oil,Thinning,4,400.0,0,,,0,11,4,0.0,No,400.0
+LD2127,2024-05-30,Google Ads,West India,55+,Female,Mobile,Keratin Conditioner,Thinning,3,327.0,1,749.0,4.8,0,5,2,749.0,Yes,327.0
+LD2128,2024-10-12,Instagram Ads,North India,25-34,Female,Mobile,Scalp Detox Oil,Oily Scalp,1,482.0,0,,,0,10,4,0.0,No,482.0
+LD2129,2024-04-03,Instagram Ads,North India,55+,Female,Desktop,Keratin Conditioner,Dandruff,1,462.0,0,,,0,4,2,0.0,No,462.0
+LD2130,2024-02-22,Instagram Ads,Metro Cities,18-24,Female,Mobile,Keratin Conditioner,Oily Scalp,1,432.0,1,749.0,4.7,1,2,1,749.0,Yes,432.0
+LD2131,2024-11-01,Google Ads,East India,35-44,Male,Mobile,Deep Repair Hair Mask,Thinning,7,301.0,1,849.0,4.3,1,11,4,849.0,Yes,301.0
+LD2132,2024-03-17,Instagram Ads,South India,55+,Male,Desktop,Keratin Conditioner,Thinning,7,470.0,0,,,0,3,1,0.0,No,470.0
+LD2133,2024-07-09,Email Campaign,West India,25-34,Male,Tablet,Scalp Detox Oil,Thinning,7,101.0,1,799.0,3.9,1,7,3,799.0,Yes,101.0
+LD2134,2024-03-05,Instagram Ads,North India,18-24,Female,Tablet,Keratin Conditioner,Hair Fall,5,443.0,0,,,0,3,1,0.0,No,443.0
+LD2135,2024-12-17,Email Campaign,Metro Cities,25-34,Male,Mobile,Scalp Detox Oil,Dry & Frizzy,1,178.0,1,799.0,3.3,0,12,4,799.0,Yes,178.0
+LD2136,2024-06-05,Instagram Ads,East India,25-34,Male,Mobile,Anti-Hair Fall Shampoo,Oily Scalp,3,487.0,1,699.0,4.8,0,6,2,699.0,Yes,487.0
+LD2137,2024-09-09,Google Ads,East India,18-24,Female,Mobile,Scalp Detox Oil,Hair Fall,7,413.0,1,799.0,3.7,0,9,3,799.0,Yes,413.0
+LD2138,2024-02-26,Google Ads,West India,35-44,Female,Mobile,Scalp Detox Oil,Dandruff,7,416.0,0,,,0,2,1,0.0,No,416.0
+LD2139,2024-03-30,Email Campaign,Metro Cities,18-24,Male,Desktop,Keratin Conditioner,Oily Scalp,1,54.0,1,749.0,4.5,0,3,1,749.0,Yes,54.0
+LD2140,2024-10-16,Google Ads,South India,25-34,Female,Desktop,Onion & Biotin Serum,Oily Scalp,2,290.0,1,949.0,3.4,0,10,4,949.0,Yes,290.0
+LD2141,2024-01-10,Instagram Ads,East India,25-34,Female,Mobile,Anti-Hair Fall Shampoo,Thinning,7,391.0,0,,,0,1,1,0.0,No,391.0
+LD2142,2024-08-02,Influencer,Metro Cities,55+,Female,Mobile,Deep Repair Hair Mask,Dry & Frizzy,2,589.0,0,,,0,8,3,0.0,No,589.0
+LD2143,2024-10-15,Instagram Ads,West India,25-34,Female,Desktop,Onion & Biotin Serum,Oily Scalp,7,440.0,0,,,0,10,4,0.0,No,440.0
+LD2144,2024-08-11,Instagram Ads,West India,25-34,Female,Desktop,Onion & Biotin Serum,Oily Scalp,3,454.0,0,,,0,8,3,0.0,No,454.0
+LD2145,2024-05-15,Instagram Ads,East India,18-24,Female,Desktop,Scalp Detox Oil,Hair Fall,6,427.0,0,,,0,5,2,0.0,No,427.0
+LD2146,2024-06-03,Influencer,North India,18-24,Female,Desktop,Scalp Detox Oil,Dry & Frizzy,5,574.0,0,,,0,6,2,0.0,No,574.0
+LD2147,2024-12-30,Organic Search,North India,25-34,Female,Mobile,Keratin Conditioner,Dandruff,7,54.0,1,749.0,4.0,0,12,4,749.0,Yes,54.0
+LD2148,2024-01-29,Instagram Ads,East India,18-24,Male,Mobile,Scalp Detox Oil,Thinning,2,357.0,0,,,0,1,1,0.0,No,357.0
+LD2149,2024-05-18,Organic Search,Metro Cities,35-44,Male,Desktop,Keratin Conditioner,Hair Fall,2,-68.0,1,749.0,4.0,0,5,2,749.0,Yes,-68.0
+LD2150,2024-07-19,Organic Search,East India,25-34,Female,Tablet,Scalp Detox Oil,Thinning,6,56.0,1,799.0,4.3,0,7,3,799.0,Yes,56.0
+LD2151,2024-05-18,Google Ads,West India,45-54,Male,Tablet,Deep Repair Hair Mask,Dry & Frizzy,3,335.0,0,,,0,5,2,0.0,No,335.0
+LD2152,2024-01-18,Instagram Ads,East India,35-44,Non-binary,Desktop,Keratin Conditioner,Dandruff,5,463.0,1,749.0,4.1,0,1,1,749.0,Yes,463.0
+LD2153,2024-12-07,Organic Search,West India,55+,Female,Mobile,Deep Repair Hair Mask,Oily Scalp,3,-22.0,1,849.0,3.3,0,12,4,849.0,Yes,-22.0
+LD2154,2024-07-07,Instagram Ads,North India,25-34,Male,Desktop,Onion & Biotin Serum,Hair Fall,6,356.0,1,949.0,,1,7,3,949.0,Yes,356.0
+LD2155,2024-06-09,Influencer,East India,25-34,Female,Mobile,Deep Repair Hair Mask,Oily Scalp,6,536.0,1,849.0,3.7,0,6,2,849.0,Yes,536.0
+LD2156,2024-08-03,Instagram Ads,East India,35-44,Male,Desktop,Anti-Hair Fall Shampoo,Hair Fall,3,478.0,0,,,0,8,3,0.0,No,478.0
+LD2157,2024-09-05,Google Ads,South India,25-34,Female,Mobile,Deep Repair Hair Mask,Oily Scalp,4,317.0,1,849.0,3.9,0,9,3,849.0,Yes,317.0
+LD2158,2024-04-16,Google Ads,West India,25-34,Male,Mobile,Deep Repair Hair Mask,Thinning,6,409.0,0,,,0,4,2,0.0,No,409.0
+LD2159,2024-06-12,Instagram Ads,Metro Cities,35-44,Male,Mobile,Scalp Detox Oil,Thinning,5,479.0,1,799.0,3.9,0,6,2,799.0,Yes,479.0
+LD2160,2024-05-16,Influencer,North India,25-34,Female,Desktop,Keratin Conditioner,Oily Scalp,1,510.0,0,,,0,5,2,0.0,No,510.0
+LD2161,2024-08-25,Instagram Ads,North India,35-44,Female,Mobile,Deep Repair Hair Mask,Oily Scalp,2,414.0,0,,,0,8,3,0.0,No,414.0
+LD2162,2024-12-09,Email Campaign,West India,35-44,Female,Desktop,Scalp Detox Oil,Dry & Frizzy,7,93.0,1,799.0,,0,12,4,799.0,Yes,93.0
+LD2163,2024-06-03,Email Campaign,North India,25-34,Female,Mobile,Keratin Conditioner,Dandruff,6,99.0,1,749.0,3.8,0,6,2,749.0,Yes,99.0
+LD2164,2024-02-10,Instagram Ads,West India,18-24,Female,Mobile,Deep Repair Hair Mask,Dandruff,6,427.0,1,849.0,4.9,0,2,1,849.0,Yes,427.0
+LD2165,2024-04-11,Instagram Ads,Metro Cities,18-24,Male,Mobile,Keratin Conditioner,Dry & Frizzy,6,373.0,1,749.0,4.7,0,4,2,749.0,Yes,373.0
+LD2166,2024-11-19,Instagram Ads,South India,25-34,Female,Mobile,Scalp Detox Oil,Thinning,3,470.0,0,,,0,11,4,0.0,No,470.0
+LD2167,2024-07-14,Email Campaign,South India,35-44,Female,Mobile,Anti-Hair Fall Shampoo,Hair Fall,7,149.0,0,,,0,7,3,0.0,No,149.0
+LD2168,2024-07-05,Google Ads,Metro Cities,45-54,Female,Mobile,Keratin Conditioner,Dandruff,4,384.0,0,,,0,7,3,0.0,No,384.0
+LD2169,2024-08-22,Email Campaign,East India,18-24,Male,Mobile,Onion & Biotin Serum,Dry & Frizzy,2,168.0,0,,,0,8,3,0.0,No,168.0
+LD2170,2024-08-02,Google Ads,Metro Cities,45-54,Female,Mobile,Anti-Hair Fall Shampoo,Thinning,7,411.0,0,,,0,8,3,0.0,No,411.0
+LD2171,2024-07-18,Influencer,West India,18-24,Female,Desktop,Anti-Hair Fall Shampoo,Dandruff,5,591.0,0,,,0,7,3,0.0,No,591.0
+LD2172,2024-01-12,Influencer,South India,25-34,Female,Desktop,Deep Repair Hair Mask,Oily Scalp,4,521.0,1,849.0,3.4,0,1,1,849.0,Yes,521.0
+LD2173,2024-06-12,Google Ads,South India,45-54,Female,Mobile,Scalp Detox Oil,Oily Scalp,3,319.0,0,,,0,6,2,0.0,No,319.0
+LD2174,2024-04-18,Instagram Ads,East India,25-34,Male,Tablet,Anti-Hair Fall Shampoo,Hair Fall,3,364.0,0,,,0,4,2,0.0,No,364.0
+LD2175,2024-06-19,Google Ads,North India,18-24,Female,Mobile,Deep Repair Hair Mask,Hair Fall,6,359.0,1,849.0,4.9,0,6,2,849.0,Yes,359.0
+LD2176,2024-03-28,Instagram Ads,East India,45-54,Female,Tablet,Anti-Hair Fall Shampoo,Hair Fall,1,410.0,0,,,0,3,1,0.0,No,410.0
+LD2177,2024-01-24,Instagram Ads,North India,18-24,Male,Mobile,Onion & Biotin Serum,Dandruff,1,437.0,1,949.0,4.8,0,1,1,949.0,Yes,437.0
+LD2178,2024-08-02,Instagram Ads,Metro Cities,18-24,Female,Mobile,Deep Repair Hair Mask,Hair Fall,1,383.0,1,849.0,4.8,0,8,3,849.0,Yes,383.0
+LD2179,2024-05-16,Email Campaign,South India,18-24,Female,Mobile,Keratin Conditioner,Dandruff,5,160.0,1,749.0,3.9,0,5,2,749.0,Yes,160.0
+LD2180,2024-02-17,Email Campaign,South India,25-34,Female,Desktop,Deep Repair Hair Mask,Dry & Frizzy,5,177.0,0,,,0,2,1,0.0,No,177.0
+LD2181,2024-05-21,Instagram Ads,East India,25-34,Female,Mobile,Deep Repair Hair Mask,Dry & Frizzy,3,474.0,0,,,0,5,2,0.0,No,474.0
+LD2182,2024-12-09,Email Campaign,North India,18-24,Male,Desktop,Anti-Hair Fall Shampoo,Dandruff,3,128.0,0,,,0,12,4,0.0,No,128.0
+LD2183,2024-09-16,Instagram Ads,West India,25-34,Male,Desktop,Onion & Biotin Serum,Dandruff,5,487.0,0,,,0,9,3,0.0,No,487.0
+LD2184,2024-09-08,Email Campaign,North India,45-54,Female,Mobile,Keratin Conditioner,Dandruff,1,115.0,0,,,0,9,3,0.0,No,115.0
+LD2185,2024-08-26,Instagram Ads,North India,25-34,Female,Mobile,Scalp Detox Oil,Oily Scalp,2,394.0,1,799.0,3.4,0,8,3,799.0,Yes,394.0
+LD2186,2024-01-13,Instagram Ads,North India,18-24,Female,Mobile,Keratin Conditioner,Hair Fall,6,414.0,0,,,0,1,1,0.0,No,414.0
+LD2187,2024-11-10,Organic Search,West India,25-34,Female,Desktop,Keratin Conditioner,Dry & Frizzy,2,5.0,1,749.0,3.4,0,11,4,749.0,Yes,5.0
+LD2188,2024-02-24,Google Ads,Metro Cities,18-24,Male,Mobile,Anti-Hair Fall Shampoo,Thinning,1,292.0,0,,,0,2,1,0.0,No,292.0
+LD2189,2024-05-12,Google Ads,North India,35-44,Female,Mobile,Keratin Conditioner,Thinning,2,298.0,0,,,0,5,2,0.0,No,298.0
+LD2190,2024-05-10,Google Ads,Metro Cities,35-44,Male,Mobile,Anti-Hair Fall Shampoo,Dandruff,2,391.0,1,699.0,4.3,0,5,2,699.0,Yes,391.0
+LD2191,2024-06-11,Instagram Ads,North India,18-24,Female,Mobile,Onion & Biotin Serum,Hair Fall,3,387.0,0,,,0,6,2,0.0,No,387.0
+LD2192,2024-07-22,Email Campaign,East India,18-24,Male,Mobile,Deep Repair Hair Mask,Dry & Frizzy,6,107.0,1,849.0,3.5,0,7,3,849.0,Yes,107.0
+LD2193,2024-03-10,Google Ads,Metro Cities,25-34,Female,Mobile,Onion & Biotin Serum,Thinning,1,337.0,0,,,0,3,1,0.0,No,337.0
+LD2194,2024-07-23,Instagram Ads,Metro Cities,35-44,Female,Desktop,Keratin Conditioner,Dry & Frizzy,2,388.0,0,,,0,7,3,0.0,No,388.0
+LD2195,2024-11-10,Instagram Ads,North India,25-34,Female,Mobile,Anti-Hair Fall Shampoo,Dandruff,7,377.0,0,,,0,11,4,0.0,No,377.0
+LD2196,2024-02-05,Email Campaign,Metro Cities,35-44,Female,Mobile,Keratin Conditioner,Thinning,2,61.0,0,,,0,2,1,0.0,No,61.0
+LD2197,2024-05-14,Google Ads,South India,25-34,Female,Mobile,Keratin Conditioner,Oily Scalp,7,324.0,1,749.0,3.6,0,5,2,749.0,Yes,324.0
+LD2198,2024-05-07,Instagram Ads,North India,18-24,Female,Desktop,Keratin Conditioner,Hair Fall,2,373.0,0,,,0,5,2,0.0,No,373.0
+LD2199,2024-09-17,Google Ads,Metro Cities,25-34,Female,Mobile,Onion & Biotin Serum,Dry & Frizzy,7,293.0,1,949.0,3.5,0,9,3,949.0,Yes,293.0
+LD2200,2024-04-04,Google Ads,Metro Cities,45-54,Female,Desktop,Onion & Biotin Serum,Hair Fall,1,425.0,0,,,0,4,2,0.0,No,425.0
+LD2201,2024-04-15,Instagram Ads,South India,35-44,Female,Mobile,Onion & Biotin Serum,Oily Scalp,2,365.0,0,,,0,4,2,0.0,No,365.0
+LD2202,2024-01-23,Organic Search,South India,35-44,Female,Desktop,Keratin Conditioner,Dandruff,2,24.0,1,749.0,4.6,0,1,1,749.0,Yes,24.0
+LD2203,2024-12-21,Instagram Ads,East India,35-44,Female,Mobile,Deep Repair Hair Mask,Hair Fall,5,443.0,0,,,0,12,4,0.0,No,443.0
+LD2204,2024-03-17,Google Ads,South India,25-34,Male,Mobile,Deep Repair Hair Mask,Hair Fall,2,424.0,1,849.0,3.5,0,3,1,849.0,Yes,424.0
+LD2205,2024-03-10,Instagram Ads,East India,35-44,Male,Mobile,Deep Repair Hair Mask,Hair Fall,2,355.0,0,,,0,3,1,0.0,No,355.0
+LD2206,2024-02-07,Google Ads,South India,25-34,Female,Mobile,Anti-Hair Fall Shampoo,Dandruff,1,337.0,0,,,0,2,1,0.0,No,337.0
+LD2207,2024-10-17,Influencer,East India,18-24,Female,Mobile,Deep Repair Hair Mask,Thinning,3,542.0,1,849.0,4.7,0,10,4,849.0,Yes,542.0
+LD2208,2024-09-17,Instagram Ads,Metro Cities,25-34,Female,Mobile,Keratin Conditioner,Hair Fall,7,399.0,0,,,0,9,3,0.0,No,399.0
+LD2209,2024-03-04,Instagram Ads,Metro Cities,25-34,Female,Desktop,Keratin Conditioner,Dandruff,1,401.0,1,749.0,4.8,0,3,1,749.0,Yes,401.0
+LD2210,2024-09-06,Organic Search,East India,18-24,Female,Desktop,Onion & Biotin Serum,Dandruff,7,-19.0,1,949.0,4.0,0,9,3,949.0,Yes,-19.0
+LD2211,2024-08-16,Google Ads,Metro Cities,25-34,Female,Mobile,Scalp Detox Oil,Hair Fall,1,341.0,0,,,0,8,3,0.0,No,341.0
+LD2212,2024-05-05,Organic Search,North India,25-34,Non-binary,Desktop,Onion & Biotin Serum,Thinning,6,-17.0,1,949.0,3.9,0,5,2,949.0,Yes,-17.0
+LD2213,2024-11-27,Instagram Ads,West India,55+,Male,Tablet,Scalp Detox Oil,Dandruff,4,382.0,1,799.0,4.6,0,11,4,799.0,Yes,382.0
+LD2214,2024-11-27,Email Campaign,West India,18-24,Female,Tablet,Anti-Hair Fall Shampoo,Dry & Frizzy,6,53.0,0,,,0,11,4,0.0,No,53.0
+LD2215,2024-11-20,Email Campaign,North India,35-44,Female,Mobile,Keratin Conditioner,Dry & Frizzy,7,125.0,0,,,0,11,4,0.0,No,125.0
+LD2216,2024-10-04,Influencer,North India,25-34,Female,Mobile,Deep Repair Hair Mask,Dandruff,5,531.0,1,849.0,3.4,0,10,4,849.0,Yes,531.0
+LD2217,2024-03-13,Email Campaign,Metro Cities,18-24,Male,Mobile,Scalp Detox Oil,Dry & Frizzy,7,40.0,1,799.0,4.0,0,3,1,799.0,Yes,40.0
+LD2218,2024-02-04,Google Ads,Metro Cities,35-44,Male,Mobile,Scalp Detox Oil,Hair Fall,5,334.0,1,799.0,3.8,0,2,1,799.0,Yes,334.0
+LD2219,2024-03-08,Instagram Ads,Metro Cities,25-34,Female,Desktop,Deep Repair Hair Mask,Hair Fall,4,386.0,1,849.0,3.6,0,3,1,849.0,Yes,386.0
+LD2220,2024-11-09,Organic Search,North India,45-54,Female,Mobile,Deep Repair Hair Mask,Thinning,1,22.0,0,,,0,11,4,0.0,No,22.0
+LD2221,2024-07-23,Instagram Ads,East India,18-24,Female,Mobile,Deep Repair Hair Mask,Hair Fall,1,412.0,1,,4.7,0,7,3,0.0,Yes,412.0
+LD2222,2024-04-28,Google Ads,Metro Cities,18-24,Female,Mobile,Scalp Detox Oil,Thinning,1,303.0,0,,,0,4,2,0.0,No,303.0
+LD2223,2024-06-30,Influencer,South India,35-44,Female,Desktop,Deep Repair Hair Mask,Hair Fall,4,517.0,0,,,0,6,2,0.0,No,517.0
+LD2224,2024-12-22,Email Campaign,Metro Cities,25-34,Male,Mobile,Anti-Hair Fall Shampoo,Thinning,1,156.0,0,,,0,12,4,0.0,No,156.0
+LD2225,2024-01-09,Email Campaign,North India,25-34,Male,Desktop,Keratin Conditioner,Dry & Frizzy,5,40.0,1,749.0,4.5,0,1,1,749.0,Yes,40.0
+LD2226,2024-01-29,Email Campaign,West India,55+,Female,Desktop,Keratin Conditioner,Dandruff,7,111.0,1,749.0,4.1,0,1,1,749.0,Yes,111.0
+LD2227,2024-09-13,Organic Search,South India,25-34,Female,Desktop,Deep Repair Hair Mask,Oily Scalp,6,40.0,0,,,0,9,3,0.0,No,40.0
+LD2228,2024-04-17,Email Campaign,West India,45-54,Male,Tablet,Deep Repair Hair Mask,Oily Scalp,6,74.0,1,849.0,4.3,0,4,2,849.0,Yes,74.0
+LD2229,2024-10-19,Google Ads,East India,45-54,Female,Mobile,Scalp Detox Oil,Dandruff,2,355.0,0,,,0,10,4,0.0,No,355.0
+LD2230,2024-06-19,Email Campaign,East India,25-34,Female,Mobile,Scalp Detox Oil,Hair Fall,5,41.0,1,799.0,5.0,0,6,2,799.0,Yes,41.0
+LD2231,2024-12-30,Email Campaign,South India,25-34,Female,Desktop,Deep Repair Hair Mask,Dandruff,6,139.0,0,,,0,12,4,0.0,No,139.0
+LD2232,2024-01-21,Google Ads,North India,18-24,Female,Mobile,Deep Repair Hair Mask,Dry & Frizzy,5,420.0,0,,,0,1,1,0.0,No,420.0
+LD2233,2024-07-11,Google Ads,East India,45-54,Female,Desktop,Scalp Detox Oil,Dandruff,3,329.0,0,,,0,7,3,0.0,No,329.0
+LD2234,2024-01-31,Google Ads,North India,35-44,Female,Tablet,Keratin Conditioner,Dry & Frizzy,1,355.0,1,,3.8,0,1,1,0.0,Yes,355.0
+LD2235,2024-07-18,Influencer,East India,55+,Female,Mobile,Anti-Hair Fall Shampoo,Dry & Frizzy,6,610.0,1,699.0,3.9,1,7,3,699.0,Yes,610.0
+LD2236,2024-02-12,Email Campaign,East India,35-44,Male,Tablet,Deep Repair Hair Mask,Dandruff,3,107.0,1,849.0,3.9,0,2,1,849.0,Yes,107.0
+LD2237,2024-08-12,Email Campaign,North India,45-54,Male,Mobile,Onion & Biotin Serum,Thinning,6,105.0,0,,,0,8,3,0.0,No,105.0
+LD2238,2024-08-23,Email Campaign,North India,18-24,Male,Desktop,Keratin Conditioner,Thinning,1,163.0,0,,,0,8,3,0.0,No,163.0
+LD2239,2024-02-27,Google Ads,South India,25-34,Female,Desktop,Scalp Detox Oil,Hair Fall,4,367.0,0,,,0,2,1,0.0,No,367.0
+LD2240,2024-03-13,Instagram Ads,East India,35-44,Female,Desktop,Scalp Detox Oil,Dandruff,6,425.0,0,,,0,3,1,0.0,No,425.0
+LD2241,2024-06-27,Google Ads,North India,35-44,Female,Tablet,Keratin Conditioner,Thinning,1,376.0,0,,,0,6,2,0.0,No,376.0
+LD2242,2024-06-22,Organic Search,Metro Cities,25-34,Female,Mobile,Keratin Conditioner,Hair Fall,7,-16.0,1,749.0,4.4,1,6,2,749.0,Yes,-16.0
+LD2243,2024-02-12,Instagram Ads,North India,18-24,Female,Mobile,Deep Repair Hair Mask,Thinning,6,442.0,0,,,0,2,1,0.0,No,442.0
+LD2244,2024-04-07,Influencer,West India,35-44,Female,Tablet,Keratin Conditioner,Thinning,4,622.0,0,,,0,4,2,0.0,No,622.0
+LD2245,2024-05-29,Email Campaign,West India,35-44,Female,Mobile,Scalp Detox Oil,Dandruff,3,67.0,0,,,0,5,2,0.0,No,67.0
+LD2246,2024-02-24,Instagram Ads,South India,35-44,Female,Mobile,Deep Repair Hair Mask,Dry & Frizzy,5,391.0,0,,,0,2,1,0.0,No,391.0
+LD2247,2024-04-29,Google Ads,East India,35-44,Female,Desktop,Keratin Conditioner,Thinning,1,424.0,1,749.0,4.0,1,4,2,749.0,Yes,424.0
+LD2248,2024-07-26,Instagram Ads,West India,55+,Female,Mobile,Scalp Detox Oil,Dry & Frizzy,3,415.0,0,,,0,7,3,0.0,No,415.0
+LD2249,2024-04-29,Email Campaign,Metro Cities,18-24,Female,Mobile,Keratin Conditioner,Oily Scalp,1,168.0,0,,,0,4,2,0.0,No,168.0
+LD2250,2024-01-20,Email Campaign,North India,25-34,Female,Desktop,Deep Repair Hair Mask,Oily Scalp,4,63.0,1,849.0,5.0,1,1,1,849.0,Yes,63.0
+LD2251,2024-05-05,Influencer,South India,25-34,Male,Mobile,Scalp Detox Oil,Dry & Frizzy,5,619.0,1,,3.4,0,5,2,0.0,Yes,619.0
+LD2252,2024-11-05,Google Ads,North India,18-24,Male,Mobile,Scalp Detox Oil,Hair Fall,4,404.0,0,,,0,11,4,0.0,No,404.0
+LD2253,2024-04-13,Email Campaign,Metro Cities,25-34,Non-binary,Mobile,Deep Repair Hair Mask,Dandruff,2,157.0,0,,,0,4,2,0.0,No,157.0
+LD2254,2024-09-26,Google Ads,North India,35-44,Male,Mobile,Onion & Biotin Serum,Oily Scalp,6,416.0,0,,,0,9,3,0.0,No,416.0
+LD2255,2024-03-19,Influencer,North India,45-54,Male,Mobile,Keratin Conditioner,Hair Fall,5,629.0,0,,,0,3,1,0.0,No,629.0
+LD2256,2024-10-04,Email Campaign,East India,25-34,Female,Mobile,Anti-Hair Fall Shampoo,Dandruff,5,66.0,0,,,0,10,4,0.0,No,66.0
+LD2257,2024-12-26,Instagram Ads,Metro Cities,18-24,Female,Mobile,Deep Repair Hair Mask,Thinning,4,442.0,0,,,0,12,4,0.0,No,442.0
+LD2258,2024-02-29,Organic Search,North India,35-44,Female,Mobile,Deep Repair Hair Mask,Oily Scalp,4,12.0,1,849.0,4.6,0,2,1,849.0,Yes,12.0
+LD2259,2024-01-31,Google Ads,South India,35-44,Female,Mobile,Scalp Detox Oil,Dandruff,2,361.0,0,,,0,1,1,0.0,No,361.0
+LD2260,2024-12-22,Instagram Ads,Metro Cities,25-34,Male,Mobile,Deep Repair Hair Mask,Dry & Frizzy,2,386.0,0,,,0,12,4,0.0,No,386.0
+LD2261,2024-03-21,Email Campaign,North India,25-34,Female,Tablet,Onion & Biotin Serum,Hair Fall,2,155.0,1,949.0,4.4,0,3,1,949.0,Yes,155.0
+LD2262,2024-01-27,Google Ads,South India,35-44,Male,Mobile,Anti-Hair Fall Shampoo,Dandruff,2,395.0,0,,,0,1,1,0.0,No,395.0
+LD2263,2024-03-14,Instagram Ads,South India,25-34,Female,Mobile,Keratin Conditioner,Hair Fall,4,377.0,0,,,0,3,1,0.0,No,377.0
+LD2264,2024-03-04,Influencer,West India,18-24,Female,Desktop,Onion & Biotin Serum,Hair Fall,7,614.0,1,949.0,3.4,0,3,1,949.0,Yes,614.0
+LD2265,2024-08-22,Google Ads,East India,45-54,Male,Mobile,Keratin Conditioner,Thinning,6,307.0,0,,,0,8,3,0.0,No,307.0
+LD2266,2024-11-11,Organic Search,East India,45-54,Female,Mobile,Anti-Hair Fall Shampoo,Dandruff,4,-15.0,0,,,0,11,4,0.0,No,-15.0
+LD2267,2024-09-11,Influencer,North India,18-24,Male,Mobile,Keratin Conditioner,Oily Scalp,3,639.0,0,,,0,9,3,0.0,No,639.0
+LD2268,2024-03-11,Instagram Ads,West India,35-44,Female,Mobile,Deep Repair Hair Mask,Hair Fall,4,360.0,1,849.0,3.5,0,3,1,849.0,Yes,360.0
+LD2269,2024-08-29,Email Campaign,Metro Cities,55+,Female,Mobile,Anti-Hair Fall Shampoo,Oily Scalp,5,83.0,0,,,0,8,3,0.0,No,83.0
+LD2270,2024-03-30,Google Ads,West India,35-44,Male,Desktop,Onion & Biotin Serum,Dry & Frizzy,2,392.0,0,,,0,3,1,0.0,No,392.0
+LD2271,2024-07-23,Email Campaign,Metro Cities,35-44,Male,Mobile,Keratin Conditioner,Dandruff,1,107.0,1,749.0,4.4,0,7,3,749.0,Yes,107.0
+LD2272,2024-06-28,Google Ads,Metro Cities,35-44,Female,Mobile,Keratin Conditioner,Hair Fall,6,364.0,1,749.0,4.1,0,6,2,749.0,Yes,364.0
+LD2273,2024-08-17,Instagram Ads,Metro Cities,35-44,Female,Mobile,Anti-Hair Fall Shampoo,Oily Scalp,3,414.0,1,699.0,4.2,0,8,3,699.0,Yes,414.0
+LD2274,2024-04-14,Google Ads,South India,25-34,Female,Mobile,Scalp Detox Oil,Dry & Frizzy,6,360.0,0,,,0,4,2,0.0,No,360.0
+LD2275,2024-05-18,Instagram Ads,West India,45-54,Non-binary,Mobile,Scalp Detox Oil,Oily Scalp,6,362.0,0,,,0,5,2,0.0,No,362.0
+LD2276,2024-12-02,Google Ads,East India,25-34,Male,Mobile,Deep Repair Hair Mask,Oily Scalp,1,380.0,0,,,0,12,4,0.0,No,380.0
+LD2277,2024-10-17,Email Campaign,North India,35-44,Female,Mobile,Deep Repair Hair Mask,Hair Fall,3,70.0,1,849.0,4.7,0,10,4,849.0,Yes,70.0
+LD2278,2024-03-15,Influencer,South India,45-54,Male,Mobile,Scalp Detox Oil,Dry & Frizzy,7,621.0,0,,,0,3,1,0.0,No,621.0
+LD2279,2024-01-22,Organic Search,South India,35-44,Female,Mobile,Deep Repair Hair Mask,Thinning,1,-47.0,0,,,0,1,1,0.0,No,-47.0
+LD2280,2024-12-08,Instagram Ads,South India,35-44,Female,Mobile,Keratin Conditioner,Dandruff,4,425.0,0,,,0,12,4,0.0,No,425.0
+LD2281,2024-10-19,Instagram Ads,Metro Cities,35-44,Male,Mobile,Keratin Conditioner,Oily Scalp,1,414.0,0,,,0,10,4,0.0,No,414.0
+LD2282,2024-12-26,Instagram Ads,West India,35-44,Female,Mobile,Scalp Detox Oil,Thinning,5,369.0,0,,,0,12,4,0.0,No,369.0
+LD2283,2024-03-30,Instagram Ads,West India,45-54,Male,Mobile,Deep Repair Hair Mask,Dry & Frizzy,3,453.0,1,849.0,4.5,0,3,1,849.0,Yes,453.0
+LD2284,2024-01-25,Instagram Ads,East India,35-44,Male,Desktop,Anti-Hair Fall Shampoo,Dry & Frizzy,2,362.0,0,,,0,1,1,0.0,No,362.0
+LD2285,2024-10-20,Google Ads,Metro Cities,25-34,Male,Mobile,Onion & Biotin Serum,Oily Scalp,3,401.0,1,949.0,3.5,1,10,4,949.0,Yes,401.0
+LD2286,2024-09-28,Organic Search,East India,35-44,Male,Mobile,Keratin Conditioner,Oily Scalp,2,-70.0,0,,,0,9,3,0.0,No,-70.0
+LD2287,2024-10-12,Email Campaign,East India,25-34,Male,Mobile,Onion & Biotin Serum,Thinning,6,116.0,0,,,0,10,4,0.0,No,116.0
+LD2288,2024-08-22,Google Ads,Metro Cities,35-44,Female,Mobile,Onion & Biotin Serum,Dry & Frizzy,5,313.0,1,949.0,4.7,1,8,3,949.0,Yes,313.0
+LD2289,2024-05-15,Instagram Ads,North India,45-54,Male,Mobile,Scalp Detox Oil,Oily Scalp,6,414.0,1,799.0,4.7,1,5,2,799.0,Yes,414.0
+LD2290,2024-10-11,Instagram Ads,South India,35-44,Male,Mobile,Deep Repair Hair Mask,Thinning,1,414.0,1,849.0,4.3,0,10,4,849.0,Yes,414.0
+LD2291,2024-08-20,Instagram Ads,East India,25-34,Male,Desktop,Keratin Conditioner,Thinning,4,370.0,0,,,0,8,3,0.0,No,370.0
+LD2292,2024-04-12,Google Ads,West India,25-34,Female,Mobile,Onion & Biotin Serum,Thinning,2,395.0,0,,,0,4,2,0.0,No,395.0
+LD2293,2024-07-08,Influencer,North India,35-44,Male,Desktop,Keratin Conditioner,Dry & Frizzy,5,510.0,0,,,0,7,3,0.0,No,510.0
+LD2294,2024-02-22,Instagram Ads,North India,25-34,Male,Mobile,Anti-Hair Fall Shampoo,Dandruff,7,391.0,1,699.0,4.9,0,2,1,699.0,Yes,391.0
+LD2295,2024-03-27,Influencer,South India,25-34,Female,Mobile,Onion & Biotin Serum,Dry & Frizzy,7,604.0,1,949.0,4.1,0,3,1,949.0,Yes,604.0
+LD2296,2024-06-17,Google Ads,East India,18-24,Female,Mobile,Anti-Hair Fall Shampoo,Thinning,2,412.0,1,699.0,4.4,0,6,2,699.0,Yes,412.0
+LD2297,2024-07-24,Email Campaign,Metro Cities,35-44,Female,Mobile,Scalp Detox Oil,Dry & Frizzy,1,145.0,1,799.0,4.3,1,7,3,799.0,Yes,145.0
+LD2298,2024-02-21,Google Ads,South India,25-34,Non-binary,Mobile,Anti-Hair Fall Shampoo,Thinning,5,360.0,0,,,0,2,1,0.0,No,360.0
+LD2299,2024-11-18,Instagram Ads,Metro Cities,18-24,Female,Desktop,Onion & Biotin Serum,Hair Fall,6,458.0,0,,,0,11,4,0.0,No,458.0
